@@ -36,6 +36,24 @@ a {
     color: #2455a4;
 }
 
+.top-nav {
+    display: flex;
+    gap: 30px;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+.top-nav a {
+    text-decoration: none;
+    color: #222;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.top-nav a:hover {
+    color: #2455a4;
+}
+
 footer {
     margin-top: 80px;
     color: #777;

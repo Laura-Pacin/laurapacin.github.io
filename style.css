@@ -22,20 +22,7 @@ h2 {
     padding-bottom: 8px;
 }
 
-nav {
-    margin-top: 20px;
-}
-
-nav a {
-    margin-right: 20px;
-    text-decoration: none;
-    color: #2455a4;
-}
-
-a {
-    color: #2455a4;
-}
-
+/* TOP NAVIGATION */
 .top-nav {
     display: flex;
     gap: 30px;
@@ -51,6 +38,10 @@ a {
 }
 
 .top-nav a:hover {
+    color: #2455a4;
+}
+
+a {
     color: #2455a4;
 }
 

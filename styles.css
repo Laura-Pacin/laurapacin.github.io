@@ -1,0 +1,48 @@
+/* Laura Pacin academic website */
+
+.navbar {
+  font-size: 0.98rem;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+#hero-heading blockquote {
+  border-left: none;
+  padding-left: 0;
+  font-size: 1.03rem;
+  line-height: 1.65;
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333;
+}
+
+.small-contact {
+  font-size: 0.9rem;
+  color: #6c757d;
+  margin-top: 1.25rem;
+}
+
+main.content {
+  max-width: 900px;
+}
+
+h1 {
+  font-weight: 600;
+}
+
+h2 {
+  margin-top: 2rem;
+  font-size: 1.35rem;
+  font-weight: 600;
+}
+
+p, li {
+  line-height: 1.65;
+}
+
+a {
+  text-underline-offset: 2px;
+}

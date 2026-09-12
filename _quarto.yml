@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Laura Pacin"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - text: "Research"
+        href: research/index.qmd
+      - text: "Teaching"
+        href: teaching/index.qmd
+    right:
+      - icon: linkedin
+        href: https://linkedin.com/in/laurapacin
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:laurapacin@gmail.com
+        aria-label: Email
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false

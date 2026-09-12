@@ -22,12 +22,12 @@ about:
 :::{#hero-heading}
 
 <center>
-PhD Student in Economics -- Sciences Po<br>
+Student in Economics -- SP<br>
 <i>Department of Economics / CRIS</i>
 </center>
 
 <blockquote style="margin-bottom:0em;margin-top:.5em">
-I am an economist interested in labor economics, discrimination, inequality, and public policy. My research focuses on how firms and labor-market institutions shape inequalities across hiring and careers.
+Labor economics, discrimination, inequality, and public policy. My research focuses on how firms and labor-market institutions shape inequalities across hiring and careers.
 </blockquote>
 
 :::

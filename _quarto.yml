@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs  
+  
+website:
+  title: "Laura Pacin"
+  favicon: icon.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - text: "Research"
+        href: research/index.qmd
+      - text: "Teaching"
+        href: teaching/index.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true

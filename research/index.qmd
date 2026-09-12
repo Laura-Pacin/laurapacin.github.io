@@ -1,0 +1,27 @@
+---
+title: "Research"
+toc: false
+---
+
+## Research interests
+
+Labor economics, discrimination, inequality, public economics, and applied microeconometrics.
+
+## Work in progress
+
+**Power and Prejudice: How does Ethnic Hiring Discrimination vary across differently concentrated labor markets?**  
+Master's thesis, Paris School of Economics.  
+Supervisors: Thomas Breda and Morgane Laouénan.
+
+**Discrimination over the career cycle**  
+Ongoing research on how ethnic inequalities evolve from hiring to wage and career progression, and how firm characteristics and labor-market structure shape these dynamics.
+
+**Policies to reduce discrimination**  
+Ongoing research on the effects of anti-discrimination policies and on how policy effects interact with firms' hiring behavior and labor-market structure.
+
+## Research experience
+
+- **LIEPP -- Sciences Po**, Research Assistant, with Mirna Safi and Morgane Laouénan.
+- **MESi -- IIEP (UBA-CONICET)**, Research Assistant on projects with the International Labour Organization.
+- **OFCE -- Sciences Po**, Research Assistant with Raul Sampognaro.
+- **EDIL -- IIEP (UBA-CONICET)**, Research Assistant with Danilo Trupkin.
